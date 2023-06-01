@@ -9,12 +9,14 @@ Déconstruire un problème. Développer un algorithme pour résoudre un problèm
 - [x] Un fichier Python `bruteforce.py` avec la solution de force brute. 
 - [x] Un fichier Python `optimized.py` avec la version optimisée de l'algorithme.
 - [x] Un jeu de diapositives au format PDF expliquant ce qui suit (20 diapositives maximum):
+
       - [x] la solution optimisée, y compris:
             - [x] l'analyse de l'algorithme de force brute
             - [x] un diagramme/agenda/pseudocode
             - [x] l'algorithme choisi et ses limites
             - [x] l'analyse des performances et de l'efficacité de vos algorithmes
       - [x] une comparaison côte à côte entre la sortie de votre algorithme et les choix de Sienna, via un rapport d'exploration de l'ensemble des données
+
 ---
 
 ## Comment utiliser le projet ?
